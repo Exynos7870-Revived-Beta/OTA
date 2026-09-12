@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1789159888,
+      "filename": "lineage-19.1-20260911-UNOFFICIAL-a3y17lte.zip",
+      "id": "f45d5b5fd1ff9daadf8100c22853e352a89c03e06856dd8c1a4dff7d2e94b8d5",
+      "romtype": "unofficial",
+      "size": 760497496,
+      "url": "https://github.com/Exynos7870-Revived-Beta/Releases/releases/download/lineage-19.1/lineage-19.1-20260911-UNOFFICIAL-a3y17lte.zip",
+      "version": "19.1"
+    }
+  ]
+}
