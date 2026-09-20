@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1789070072,
-      "filename": "lineage-19.1-20260910-UNOFFICIAL-j7xelte.zip",
-      "id": "431e69cdf3b7b3ef2116897011598b5a2eabb312e1c67f7713df1d6cf7885ee4",
+      "datetime": 1789897140,
+      "filename": "lineage-19.1-20260920-UNOFFICIAL-j7xelte.zip",
+      "id": "30bc68864777140f218fee703bedc3ddfa2addc0b5d7de74e38de1e2282ab935",
       "romtype": "unofficial",
-      "size": 753234002,
-      "url": "https://github.com/Exynos7870-Revived-Beta/Releases/releases/download/lineage-19.1/lineage-19.1-20260910-UNOFFICIAL-j7xelte.zip",
+      "size": 854272559,
+      "url": "https://github.com/Exynos7870-Revived-Beta/Releases/releases/download/lineage-19.1/lineage-19.1-20260920-UNOFFICIAL-j7xelte.zip",
       "version": "19.1"
     }
   ]
